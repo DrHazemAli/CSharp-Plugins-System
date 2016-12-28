@@ -17,7 +17,7 @@ namespace PluginsSystem
       # Facebook : https://www.facebook.com/Haz4m
       # License  : FREE.
       # DateTime : December 28, 2016
-      # SHARING IS SEXY, KNOWLEGE IS FOR EVERYONE, ENJOY =:)
+      # SHARING IS SEXY, KNOWLEDGE IS FOR EVERYONE, ENJOY =:)
     */
     public partial class frmPluginLoader : Form
     {
