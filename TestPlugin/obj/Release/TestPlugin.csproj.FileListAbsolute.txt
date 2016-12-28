@@ -1,0 +1,7 @@
+c:\users\hazem ali\documents\visual studio 2015\Projects\PluginsSystem\TestPlugin\bin\Release\TestPlugin.dll
+c:\users\hazem ali\documents\visual studio 2015\Projects\PluginsSystem\TestPlugin\bin\Release\TestPlugin.pdb
+c:\users\hazem ali\documents\visual studio 2015\Projects\PluginsSystem\TestPlugin\bin\Release\Plugins Platform.dll
+c:\users\hazem ali\documents\visual studio 2015\Projects\PluginsSystem\TestPlugin\bin\Release\Plugins Platform.pdb
+c:\users\hazem ali\documents\visual studio 2015\Projects\PluginsSystem\TestPlugin\obj\Release\TestPlugin.csprojResolveAssemblyReference.cache
+c:\users\hazem ali\documents\visual studio 2015\Projects\PluginsSystem\TestPlugin\obj\Release\TestPlugin.dll
+c:\users\hazem ali\documents\visual studio 2015\Projects\PluginsSystem\TestPlugin\obj\Release\TestPlugin.pdb

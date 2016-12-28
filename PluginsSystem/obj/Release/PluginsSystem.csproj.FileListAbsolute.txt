@@ -1,0 +1,10 @@
+c:\users\hazem ali\documents\visual studio 2015\Projects\PluginsSystem\PluginsSystem\bin\Release\PluginsSystem.exe
+c:\users\hazem ali\documents\visual studio 2015\Projects\PluginsSystem\PluginsSystem\bin\Release\PluginsSystem.pdb
+c:\users\hazem ali\documents\visual studio 2015\Projects\PluginsSystem\PluginsSystem\bin\Release\Plugins Platform.dll
+c:\users\hazem ali\documents\visual studio 2015\Projects\PluginsSystem\PluginsSystem\bin\Release\Plugins Platform.pdb
+c:\users\hazem ali\documents\visual studio 2015\Projects\PluginsSystem\PluginsSystem\obj\Release\PluginsSystem.csprojResolveAssemblyReference.cache
+c:\users\hazem ali\documents\visual studio 2015\Projects\PluginsSystem\PluginsSystem\obj\Release\PluginsSystem.frmPluginLoader.resources
+c:\users\hazem ali\documents\visual studio 2015\Projects\PluginsSystem\PluginsSystem\obj\Release\PluginsSystem.Properties.Resources.resources
+c:\users\hazem ali\documents\visual studio 2015\Projects\PluginsSystem\PluginsSystem\obj\Release\PluginsSystem.csproj.GenerateResource.Cache
+c:\users\hazem ali\documents\visual studio 2015\Projects\PluginsSystem\PluginsSystem\obj\Release\PluginsSystem.exe
+c:\users\hazem ali\documents\visual studio 2015\Projects\PluginsSystem\PluginsSystem\obj\Release\PluginsSystem.pdb

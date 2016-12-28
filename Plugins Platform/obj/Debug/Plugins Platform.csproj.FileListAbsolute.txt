@@ -1,0 +1,5 @@
+c:\users\hazem ali\documents\visual studio 2015\Projects\PluginsSystem\Plugins Platform\bin\Debug\Plugins Platform.dll
+c:\users\hazem ali\documents\visual studio 2015\Projects\PluginsSystem\Plugins Platform\bin\Debug\Plugins Platform.pdb
+c:\users\hazem ali\documents\visual studio 2015\Projects\PluginsSystem\Plugins Platform\obj\Debug\Plugins Platform.csprojResolveAssemblyReference.cache
+c:\users\hazem ali\documents\visual studio 2015\Projects\PluginsSystem\Plugins Platform\obj\Debug\Plugins Platform.dll
+c:\users\hazem ali\documents\visual studio 2015\Projects\PluginsSystem\Plugins Platform\obj\Debug\Plugins Platform.pdb

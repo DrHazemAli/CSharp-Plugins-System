@@ -1,0 +1,4 @@
+c:\users\hazem ali\documents\visual studio 2015\Projects\PluginsSystem\Plugins Platform\bin\Release\Plugins Platform.dll
+c:\users\hazem ali\documents\visual studio 2015\Projects\PluginsSystem\Plugins Platform\bin\Release\Plugins Platform.pdb
+c:\users\hazem ali\documents\visual studio 2015\Projects\PluginsSystem\Plugins Platform\obj\Release\Plugins Platform.dll
+c:\users\hazem ali\documents\visual studio 2015\Projects\PluginsSystem\Plugins Platform\obj\Release\Plugins Platform.pdb
